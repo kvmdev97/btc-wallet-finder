@@ -1,0 +1,4 @@
+requests
+hdwallet
+typing
+colorthon
