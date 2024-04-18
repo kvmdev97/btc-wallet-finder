@@ -1,9 +1,6 @@
 # btc-wallet-finder
 a Burt force tool with python that allow you to try your luck !
 
-(https://github.com/kvmdev97/btc-wallet-finder/blob/main/btcwalletscan.gif?raw=true 'How it's work')
-
-
 ### Install From PIP :
 
 You need to install a number of libraries to execute the script that you can use the following commands if you want to install them as each.
